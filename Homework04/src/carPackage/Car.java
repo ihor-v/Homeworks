@@ -11,7 +11,7 @@ public class Car {
 	}
 	void drive(int km) {
 		if (objem / rozhid > km) {
-			System.out.println();
+			System.out.println("Test one");
 		}
 	}
 
